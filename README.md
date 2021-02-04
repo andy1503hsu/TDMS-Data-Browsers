@@ -12,4 +12,7 @@ In addition, there are 4 Python packages that are required to run `Browser_1.2.p
 Lastly, at runtime, the Python script will ask the user to input a tdms file. When this occurs, make sure
 that ".tdms" is included at the end. For example, the TDMS file provided in this repository would be inputted as `Data1Data File2020.tdms`.
 
+Here is an example of what the data browser can do:
+<img src="https://github.com/andy1503hsu/TDMS-Data-Browser/blob/main/Example%20Pictures/Example%20Data%20Browser%20Picture.png" width = "900">
+
 For more information about this project and its purpose, check out [this file](https://github.com/andy1503hsu/TDMS-Data-Browser/blob/main/About%20This%20Project.md).
